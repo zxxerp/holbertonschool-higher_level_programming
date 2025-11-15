@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 # Script that prints "Welcome to Holberton School!" using two variables
-str1 = "Welcome to "
-str2 = "Holberton School!"
+str1 = "Holberton"
+str2 = "School"
 print(f"{str1}{str2}")
