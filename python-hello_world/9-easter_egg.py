@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-import this # ....................................................... (fill to 98)
+import this 
