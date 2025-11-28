@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"""Module 2-is_same_class: defines a function to check exact class of an object"""
+"""Module 2-is_same_class:
+Defines a function to check the exact class of an object
+"""
 
 
 def is_same_class(obj, a_class):
