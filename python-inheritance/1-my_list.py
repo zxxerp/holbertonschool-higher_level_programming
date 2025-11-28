@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 class MyList(list):
     """MyList inherits from list and adds print_sorted method"""
 
