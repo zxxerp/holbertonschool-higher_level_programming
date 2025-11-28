@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """Module 4-inherits_from:
-Defines a function to check if an object's class inherits from a specified class
+Defines a function to check if an object's class inherits from a
+specified class
 """
 
 
