@@ -8,6 +8,7 @@ class MyList(list):
     def print_sorted(self):
         """Print the list in ascending order without modifying the original list.
 
+        Example:
         >>> my_list = MyList()
         >>> my_list.append(3)
         >>> my_list.append(1)
