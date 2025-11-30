@@ -1,5 +1,5 @@
 -- second_table in the database 
-CREATE TABLE second_table(
+CREATE TABLE IF NOT EXISTS second_table(
 	id BIGINT NOT NULL  PRIMARY KEY
 	name VARCHAR(256)
 	score NOT NULL  BIGINT
