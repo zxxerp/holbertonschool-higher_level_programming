@@ -8,7 +8,8 @@ import urllib.request
 
 def fetch_status():
     """
-    Fetches the Holberton intranet status page and prints details about the body.
+    Fetches the Holberton intranet status page and prints details
+    about the body.
     """
     url = "https://intranet.hbtn.io/status"
 
